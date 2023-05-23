@@ -1,0 +1,1 @@
+# Praktikum_Strukdat2023
